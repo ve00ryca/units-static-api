@@ -1,0 +1,13 @@
+{
+    "id": "temperature",
+    "unit_name": "temperature",
+    "category": "temperature",
+    "title": "TEMPERATURE",
+    "description": "Convert units for temperature",
+    "options": [
+      "select unit",
+      "Celsius (°C)",
+      "Fahrenheit (°F)",
+      "Kelvin (K)"
+    ]
+  }
